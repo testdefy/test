@@ -1,0 +1,79 @@
+Date and Time : Nov 4, 2025 9:19:36 AM
+Result : ALLOWED
+Url : https://github.com/spindoktor33/test/upload
+User : TSAASJ0
+Category : Office/Business Applications;Technology/Internet;FPTriton_UpdateSites_v2
+Client IP : 10.14.49.153
+Inspected : INSPECTED
+Method : GET
+Risk Level : 2
+Rule ID : WAL-InternetBrowsing-RUC_InternetBrowsing_Allow_Lists
+Rule Matches : No Rule Matches
+Status : 200
+Transaction Id : 70459d22f93185dc-000000005510ecd5-00000000690a0b77
+User Group : a-BMPxx-CopilotCDP, a-BMPxx-ProxyReporting, a-BMPxx-InternetBrowsing, a-BMPxx-HighRiskInternetBrowsingUsers
+Agent IP : No Agent IP
+Agent Type : No Agent Type
+Client IP Version : IPv4
+Client Public IP : No Client Public IP
+Client Version : No Client Version
+Device Id : No Device Id
+Device Name : No Device Name
+Device Type : No Device Type
+Location : No Location
+OS : No OS
+Source Country : No Source Country
+Subnet : 10.14.49.0
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Destination Country : No Destination Country
+Destination IP Version : No Destination IP Version
+Destination IP : No Destination IP
+HTTP Connect Host : No HTTP Connect Host
+HTTP Connect Port : No HTTP Connect Port
+Site : github.com
+URL File Extension : No URL File Extension
+Web Application Action : No Web Application Action
+Web Application : No Web Application
+Access Method : No Access Method
+Port : 443
+Protocol : https
+Query : No Query
+Referer : https://github.com/spindoktor33/test
+Request HTTP Version : No Request HTTP Version
+Search Term : No Search Term
+Upload Bytes : 2.3 KB
+Content Type : text/html; charset=utf-8
+Download Bytes : 43.0 KB
+Response HTTP Version : No Response HTTP Version
+Virus Name : No Virus Name
+Client TLS Cipher : TLS_AES_128_GCM_SHA256
+Client TLS Version : TLSv1.3
+Server Certificate Hostname : github.com
+Server TLS Cipher : TLS_AES_128_GCM_SHA256
+Server TLS Version : TLSv1.3
+Action : TCP_NC_MISS
+Browse Time : 0 secs
+Cost (Bytes) : $0.00
+Cost (Time) : $0.00
+Dedicated IP Applications : No Dedicated IP Applications
+Detonated : 
+Egress IP : No Egress IP
+File Details : No File Details
+File Reputation Score : No File Reputation Score
+File Type : No File Type
+Host : github.com
+ICAP Status : No ICAP Status
+Isolated : No
+Isolation URL : No Isolation URL
+Log Source : hosted
+Page Views : 0
+Path : /spindoktor33/test/upload
+Proxy IP : 10.246.7.38
+Request Origin : No Request Origin
+Request Scan Service : No Request Scan Service
+Response Scan Service : No Response Scan Service
+Risk Group : Business Related
+Total Bytes : 45.3 KB
+Verdict : Allowed
+Virtual Pop Country : No Virtual Pop Country
+X Forwarded For : No X Forwarded For
